@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-azure-adf",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "87be8924-24d5-44a5-9719-89cf48a73726",
+		"tenantId": "3a8871a5-a396-4e22-bee7-915c223fcbee"
+	}
+}
